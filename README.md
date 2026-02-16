@@ -38,6 +38,6 @@ All was good
 
 I declare that this work is my own and was completed honestly without plagiarism.
 
-- Repository Link: [Paste your GitHub link here]
-- PDB Name Created: [Your PDB Name]
-- Issues Encountered: [Yes / No]
+- Repository Link: []
+- PDB Name Created: [ade_to_delete_pdb_28274]
+- Issues Encountered: [No]
